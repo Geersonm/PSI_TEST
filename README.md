@@ -17,7 +17,9 @@ Não desformates o documento.
 
 P1 - Resposta
 
-    ...
+    Sera impresso o seginte:
+   \n®\n ou \nsimbolo de registro\n
+   Primeiro osimbolo @ permite imprimir no ecrã literalmente o que esta escrito entre "" e onde esta o c sera impresso o simbolo de registro=® porque o codigo '\u00AE' esta atribuido a variavel c.
 
 ### 2. Considera o seguinte código
 
@@ -30,7 +32,7 @@ P1 - Resposta
 
 P2 - Resposta
 
-    ...
+    Na linha 2 devemos colocar um F/f no final do numero, porque foi criada uma variavel do tipo float.
 
 ### 3. Escreve um programa que solicite uma string ao utilizador, e seguidamente a mostre no ecrã de forma invertida
 
